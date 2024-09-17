@@ -52,3 +52,29 @@ li a:hover {
 }
 
 /* End of navigation section */
+
+/* Start of Heder section */
+
+.header {
+  background: url(Images/pexels-nao-triponez-129207.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  font-family: "Playfair Display", serif;
+  font-weight: normal;
+  /* flexbox */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  text-align: center;
+  position: relative;
+}
+
+.main-headings {
+  position: absolute;
+  top: 7rem;
+  font-size: 4rem;
+  margin-bottom: -40px;
+}
