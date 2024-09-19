@@ -171,3 +171,16 @@ li a:hover {
 }
 
 /* End of the coffee container section */
+
+/* Product section */
+
+.products {
+  margin-top: 5rem;
+}
+
+.title-three {
+  font-size: 4rem;
+  margin-left: 10rem;
+  margin-right: 10rem;
+  margin-bottom: 10rem;
+}
