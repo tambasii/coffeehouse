@@ -184,3 +184,50 @@ li a:hover {
   margin-right: 10rem;
   margin-bottom: 10rem;
 }
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.card {
+  border: 2px solid var(--main-color);
+  padding: 0 20px;
+  height: 400px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 5px;
+  position: relative;
+  margin-bottom: 4rem;
+}
+
+.card-img {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: -60px;
+}
+
+.img-one {
+  background: url(Images/1.png);
+  background-position: center;
+  background-size: cover;
+}
+
+.img-two {
+  background: url(Images/2.png);
+  background-position: center;
+  background-size: cover;
+}
+
+.img-three {
+  background: url(Images/3.png);
+  background-position: center;
+  background-size: cover;
+}
