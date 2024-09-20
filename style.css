@@ -247,5 +247,13 @@ li a:hover {
 /* End of the products section */
 
 /* Footer Start */
-
+footer {
+  height: 50vh;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-family: sans-serif;
+}
 /* Footer End */
