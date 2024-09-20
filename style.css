@@ -275,13 +275,6 @@ span {
   color: var(--main-color);
 }
 
-hr {
-  margin-bottom: 20px;
-  border: var(--main-color);
-  width: 500px;
-  margin: 0 auto;
-}
-
 .para {
   color: #fff;
   font-family: sans-serif;
