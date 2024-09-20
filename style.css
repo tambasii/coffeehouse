@@ -256,4 +256,37 @@ footer {
   color: #fff;
   font-family: sans-serif;
 }
+
+footer .container {
+  margin: 20px;
+  max-width: 300px;
+  text-align: center;
+}
+
+footer .heading-info {
+  margin-bottom: 20px;
+}
+
+footer p {
+  line-height: 25px;
+}
+
+span {
+  color: var(--main-color);
+}
+
+hr {
+  margin-bottom: 20px;
+  border: var(--main-color);
+  width: 500px;
+  margin: 0 auto;
+}
+
+.para {
+  color: #fff;
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 20px;
+}
+
 /* Footer End */
